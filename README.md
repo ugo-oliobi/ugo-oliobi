@@ -11,12 +11,10 @@
 📌 Projects
 
 Here are some of my standout projects:
-- 🛒 E-commerce App – A fully functional online shopping platform using React
+- 🛒 Shopping Cart App – A fully functional online shopping cart using React
 - 🎬 Movie Library – A dynamic movie catalog with real-time API integration
 - 📅 Task Manager – A productivity-focused task manager with a sleek UI
-- 📊 Calculator App - A simple React-based calculator application that allows users to perform basic arithmetic operations efficiently.
-
-📂 **GitHub Repository:** [Calculator Repo](https://github.com/ugo-oliobi/Calculator-App)
+- 📊 Calculator App - A simple React-based calculator application that allows users to perform basic arithmetic operations efficiently. 📂 [Calculator Repo](https://github.com/ugo-oliobi/Calculator-App)
 
 🌍 Connect with Me
 Let's build something amazing together! Reach out:
